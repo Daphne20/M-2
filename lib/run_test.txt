@@ -1,0 +1,7 @@
+python /home/tuser/myproject/m2/__main__.py -s -f /home/tuser/myproject/data/sample/shotgun/test_data/SRR1804968.fastq -o /home/tuser/myproject/data/process/test_pipeline/
+
+
+python /home/tuser/myproject/m2/__main__.py -s -f /home/tuser/myproject/data/sample/shotgun/test_data/SRR1804728.fastq -o /home/tuser/myproject/data/process/test_pipeline/shotgun/SRR1804728
+
+
+python /home/tuser/myproject/m2/__main__.py -r -f /home/tuser/myproject/data/sample/16s/SRR048044/SRR048044.fastq -o /home/tuser/myproject/data/process/test_pipeline/rna_16s/ -m /home/tuser/myproject/data/sample/16s/SRR048044
